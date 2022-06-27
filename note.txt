@@ -1,0 +1,5 @@
+Methods
+- POST      : new topup
+- GET       : get semua data topup by id customer
+- GET       : get data topup by id
+- GET       : get id cust dari tabel customer
